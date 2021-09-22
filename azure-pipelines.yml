@@ -11,7 +11,7 @@ variables:
   azureSubscription: '6551b0b3-88a7-4485-88bf-1dbb61aec3f0'
 
   # Function app name
-  functionAppName: 'jacmarCsFunc'
+  functionAppName: 'jacmarDevOpsCs'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
